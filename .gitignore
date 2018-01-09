@@ -1,0 +1,6 @@
+*.sln
+*.suo
+*.VC*
+*.vcx*
+*Debug*
+*Release*
